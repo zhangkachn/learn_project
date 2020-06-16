@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ae7a50a-fb7b-4c87-8475-47c29cdfb2e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="D:\workspacesoftware\file\ideamaven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../workspacesoftware/file/ideamaven/apache-maven-3.3.9-bin" />
+        <option name="userSettingsFile" value="D:\workspacesoftware\file\ideamaven\repository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dFyLgYANjfMq5KKA98tBf6O6NI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager" selected="Application._53_0到n减1中缺失的数字">
+    <configuration name="_53_0到n减1中缺失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangkahcn.数组相关._53_0到n减1中缺失的数字" />
+      <module name="learn_leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangkahcn.数组相关.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnLeetcodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="learn_leetcode" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhangkahcn.LearnLeetcodeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._53_0到n减1中缺失的数字" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ae7a50a-fb7b-4c87-8475-47c29cdfb2e5" name="Default Changelist" comment="" />
+      <created>1592035081887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592035081887</updated>
+      <workItem from="1592035083209" duration="2837000" />
+      <workItem from="1592181051618" duration="2199000" />
+      <workItem from="1592214124650" duration="834000" />
+      <workItem from="1592215060344" duration="3366000" />
+    </task>
+    <task id="LOCAL-00001" summary="leetcode">
+      <created>1592220127156</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592220127156</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1592218817944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1592218817944" />
+    <state x="558" y="80" key="CommitChangelistDialog2" timestamp="1592220126461">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="80" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592220126461" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1592035383113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592035383113" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592220413830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592220413830" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592220413830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592220413830" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592220413830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592220413830" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592220413830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592220413830" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1592214450396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592214450396" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592220347101">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592220347101" />
+    <state x="334" y="180" key="new project wizard" timestamp="1592215116189">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592215116189" />
+  </component>
+</project>
